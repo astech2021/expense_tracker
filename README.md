@@ -2,12 +2,6 @@
 
 Expense Tracker—a budgeting and expense tracking app—allowed me to practice refactoring with Redux Toolkit. This app is a [Codecademy](https://www.codecademy.com/learn/learn-redux) project intended to enhance my skills on the use of JavaScript skills.
 
-## Table of Contents
-
-- [Project Prompt](#codecademy-project-prompt)
-- [Technologies](#technologies)
-- [Setup](#setup)
-- [Sources](#sources)
 
 ## Codecademy Project Prompt
 
@@ -62,7 +56,12 @@ Before you get started, spend some time using the app in its current implementat
 
 ## Setup
 
-To view the final output, click [here](https://daniellabrador.me/codecademy-redux-expense_tracker)
+To view the final output;<br>
+Run this script in the project directory
+```bash
+npm install
+npm start
+```
 
 ## Sources
 
